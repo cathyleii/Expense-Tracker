@@ -1,0 +1,11 @@
+[
+    {"expensesList": {
+        "name": "Joe",
+        "list": []
+    }},
+    {"wallet": {
+        "balance": 50,
+        "walletName": "Joe",
+        "totalAccumulated": 200
+    }}
+]
